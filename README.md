@@ -3,6 +3,8 @@
 ![](https://raw.githubusercontent.com/YuseiIto/tokyo-alert/master/alert.jpg)
 
 です。
+[東京アラート](https://tomixrm.github.io/tokyo-alert/)
+
 
 [https://github.com/YuseiIto/tokyo-alert](https://github.com/YuseiIto/tokyo-alert)
 
